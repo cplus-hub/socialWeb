@@ -1,0 +1,46 @@
+body{
+    background-image: url("../img/background.jpg");
+}
+.main{
+    margin-top: 5%;
+    margin-left: 35%;
+    padding-top: 150px;
+    padding-left: 90px;
+    width: 400px;
+    height: 500px;
+    border-radius: 10px;
+
+}
+input{
+    border: none;
+}
+input:focus{
+    outline: none;
+
+}
+
+input::-webkit-input-placeholder{
+    font-size: 12px;
+    color:beige
+}
+
+.account{
+    text-align: center;
+    font-size: 18px;
+    background-color: black;
+    border-radius: 20px;
+
+}
+.password{
+    text-align: center;
+    font-size: 18px;
+    background-color: black;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.signin{
+    border-radius: 20px;
+    font-size: 12px;
+    margin-top: 20px;
+    margin-left: 70px;
+}
