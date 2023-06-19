@@ -13,11 +13,20 @@
 </head>
 
 <body>
+    <div><img src="./img/logo_1.png" class="logo" alt="logo"></div>
+    
+</div>
     <div class="main">
+
+        <div><img src="./img/icon.png" class="icon" alt="icon"></div>
+        <div class="maintext">
+            <span ><a href="./login.php" class="maintext_1">登入</a></span>
+            <span ><a href="./signup.php"class="maintext_2">註冊</a></span>
+        </div>
         <form action="" method="post">
             <input type="text" name="account" class="account" placeholder="Account">
             <br />
-            <input type="text" name="password" class="password" placeholder="Password">
+            <input type="password" name="password" class="password" placeholder="Password">
             <br />
             <input type="submit" class="signin" value="Sign in">
         </form>
