@@ -1,0 +1,102 @@
+body {
+    height: 731px;
+    /* background-image: url("../img/background.jpg"); */
+    background-image: linear-gradient(black, white);
+    min-height: 100%;
+}
+
+.main {
+    margin-top: 5%;
+    margin-left: 35%;
+    padding-top: 80px;
+    padding-left: 90px;
+    width: 400px;
+    height: 500px;
+    border-radius: 10px;
+
+}
+
+.maintext {
+    padding-bottom: 10%;
+}
+
+.maintext_1 {
+    margin-left: 14%;
+    color:lightgray;
+}
+.maintext_1:hover{
+    color:lightcyan;
+
+}
+.maintext_2 {
+
+    margin-left: 14%;
+    color:lightcyan;
+    font-size: large;
+    font-weight: bold;
+
+}
+a{
+    text-decoration:none
+}
+
+.logo {
+    width: 10%;
+    height: 10%;
+    margin-left: 30px;
+    margin-top: 10px;
+
+
+}
+
+.icon {
+    width: 20%;
+    height: 20%;
+    margin-left: 20%;
+    margin-bottom: 20%;
+}
+
+input {
+    border: none;
+}
+
+input:focus {
+    color:azure;
+    /* outline: none; */
+
+}
+
+input::-webkit-input-placeholder {
+    font-size: 12px;
+    color: beige
+}
+
+.account {
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    background-color: black;
+    border-radius: 20px;
+
+}
+
+.password {
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    background-color: black;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.signup {
+    border-radius: 20px;
+    font-size: 12px;
+    margin-top: 20px;
+    margin-left: 70px;
+}
+
+.signup:hover {
+    background-color: lightseagreen;
+
+}
