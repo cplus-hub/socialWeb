@@ -23,46 +23,56 @@
         </div>
         <div class="content">
             <div class="content_1">
-                <div class="menu">首頁</div>
-                <div class="menu">USER</div>
+                <a href="./index.php">
+                    <div class="menu"><img src="./img/home.png">首頁</div>
+                </a>
+                <a href="./user.php">
+                    <div class="menu"><img src="./img/user.png">使用者</div>
+                </a>
                 <br />
                 <hr style="width:70%;height:1.3px;border:none;background:white;">
-                <div class="menu">貼文</div>
-                <div class="menu">訊息</div>
-                <div class="menu">社團</div>
+                <div class="menu"><img src="./img/post.png">貼文</div>
+                <div class="menu"><img src="./img/chat.png">訊息</div>
+                <div class="menu"><img src="./img/engagement.png">社團</div>
                 <br />
                 <hr style="width:70%;height:1.3px;border:none;background:white;">
-                <div class="menu">所有看板</div>
-                <div class="menu">軟體工程師</div>
-                <div class="menu">設計</div>
-                <div class="menu">公仔</div>
-                <br />
-                <hr style="width:70%;height:1.3px;border:none;background:white;">
-                <div class="menu">我的最愛</div>
-                <div class="menu">php</div>
+                <a href="./login.php">
+                    <div class="menu"><img src="./img/checkout.png">登出</div>
+                </a>
+
 
                 <div></div>
 
 
             </div>
             <div class="content_2">
-                <div class="content2_top">
+                <div class="content2_top"></div>
+                <div class="content2_top"></div>
+                <div class="content2_top"></div>
+                <div class="content2_top"></div>
 
-                </div>
                 <div class="content2_content"></div>
             </div>
             <div class="content_3">
                 <div>
                     <div class="contact">聯絡人<img src="./img/search.png" style="width: 10px; height:10px; margin-left:10px;"></div>
                     <hr style="width:100%;height:1.3px;border:none;background:white;">
-                    <div class="contact_user">小王</div>
-                    <div class="contact_user">小王</div>
-                    <div class="contact_user">小王</div>
-                    <div class="contact_user">小王</div>
-                    <div class="contact_user">小王</div>
-                    <div class="contact_user">小王</div>
-                    <div class="contact_user">小王</div>
-                    <div class="contact_user">小王</div>
+                    <div class="contact_user"><img src="./img/working.png">小王</div>
+                    <div class="contact_user"><img src="./img/working.png">小王</div>
+                    <div class="contact_user"><img src="./img/working.png">小王</div>
+                    <div class="contact_user"><img src="./img/working.png">小王</div>
+                    <div class="contact_user"><img src="./img/working.png">小王</div>
+                    <div class="contact_user"><img src="./img/working.png">小王</div>
+                    <div class="contact_user"><img src="./img/working.png">小王</div>
+                    <div class="contact_user"><img src="./img/working.png">小王</div>
+                    <div class="contact_user"><img src="./img/working.png">小王</div>
+                    <div class="contact_user"><img src="./img/working.png">小王</div>
+                    <div class="contact_user"><img src="./img/working.png">小王</div>
+                    <div class="contact_user"><img src="./img/working.png">小王</div>
+                    <div class="contact_user"><img src="./img/working.png">小王</div>
+                    <div class="contact_user"><img src="./img/working.png">小王</div>
+                    <div class="contact_user"><img src="./img/working.png">小王</div>
+
 
                 </div>
             </div>
